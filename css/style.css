@@ -1,3 +1,8 @@
+body {
+    /* REMOVES HORIZONTAL SCROLL BAR OMG */
+    overflow-x: hidden;
+}
+
 .navbar .nav-link {
     font-size: 14px;
     text-transform: uppercase;
